@@ -1,0 +1,28 @@
+
+body{
+    background:rgb(247, 188, 11);
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-align:center;
+    font-size: 120px;
+    margin-top: 2px;
+    }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px
+}
+h2{
+font-size: 60;
+text-align:center;
+margin: top 10pxpx;
+}
+p{
+ font-size: 60;
+text-align:center;   
+}
+h3{
+    color:rgb(255, 255, 255)    
+}
